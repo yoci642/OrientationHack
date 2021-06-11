@@ -113,3 +113,9 @@ body {
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
+
+.nav-container { 
+    justify-content: center;
+    align-items: center
+    
+}
