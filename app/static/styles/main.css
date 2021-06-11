@@ -119,9 +119,3 @@ body {
     align-items: center
     
 }
-
-div > .projects{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
