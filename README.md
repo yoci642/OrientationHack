@@ -123,13 +123,13 @@ As seen here, while both the navbar block and body block are declared in the bas
 Here are some images of our site below:
 
 Home/About Page: 
-!['Home Page/About Page'](/Users/marilynbalkaransingh/OrientationHack/app/static/img/Screen Shot 2021-06-11 at 1.37.57 PM.png)
-!['Home Page/About Page'](/Users/marilynbalkaransingh/OrientationHack/app/static/img/Screen Shot 2021-06-11 at 1.38.44 PM.png)
+!['Home Page/About Page'](app/static/img/Screen Shot 2021-06-11 at 1.37.57 PM.png)
+!['Home Page/About Page'](app/static/img/Screen Shot 2021-06-11 at 1.38.44 PM.png)
 
 
-Projects Page: !['Projects Page'](/Users/marilynbalkaransingh/OrientationHack/app/static/img/Screen Shot 2021-06-11 at 1.40.15 PM.png)
+Projects Page: !['Projects Page'](app/static/img/Screen Shot 2021-06-11 at 1.40.15 PM.png)
 
-Blog Page: !['Blog Page'](/Users/marilynbalkaransingh/OrientationHack/app/static/img/Screen Shot 2021-06-11 at 1.41.24 PM.png)
+Blog Page: !['Blog Page'](app/static/img/Screen Shot 2021-06-11 at 1.41.24 PM.png)
 
 
 ## Additional Resources used
