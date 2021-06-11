@@ -17,6 +17,9 @@
       rel="stylesheet"
     />
 
+    <script src="navbar.js" defer></script>
+
+
     <link lang="sass" rel="stylesheet" href="./static/styles/main.css" />
     <link rel="icon" href="./static/img/favicon.ico" type="image/x-icon" />
     <title>{{ title }}</title>
@@ -40,14 +43,22 @@
       <h1>{{ title }}</h1>
     </div>
 
+       <!-- Nav Bar HTML code begins -->
     <nav>
-      <a>About</a>
-      <a>Projects</a>
-      <a>Contact</a>
-      <a href="https://github.com/adarsh-swe/OrientationHack.git" target="_blank">GitHub</a>
+       <ul>
+        <li> <a class="navItem" id="skipToAbout" href="#">About</a></li>
+        <li> <a class="navItem" id="skipToProjects" href="#">Projects</a></li>
+        <li> <a class="navItem" id="skipToContact" href="#">Contact</a></li>
+        <li><a class="navItem" id="seeOurWork" href="https://github.com/adarsh-swe/OrientationHack.git" target="_blank">GitHub</a></li>
+      </ul>
     </nav>
+    <!-- Nav Bar HTML code ends -->
+
+  
 
     {% block body %} {% endblock %}
     <!-- Add Content inside of this block-->
+    
+
   </body>
 </html>
