@@ -123,13 +123,13 @@ As seen here, while both the navbar block and body block are declared in the bas
 Here are some images of our site below:
 
 Home/About Page: 
-!['Home Page/About Page'](app/static/img/Screen Shot 2021-06-11 at 1.37.57 PM.png)
-!['Home Page/About Page'](app/static/img/Screen Shot 2021-06-11 at 1.38.44 PM.png)
+!['Home Page/About Page'](https://res.cloudinary.com/lonewolf23/image/upload/v1623433879/Screen_Shot_2021-06-11_at_1.37.57_PM_m5zwiw.png)
+!['Home Page/About Page'](https://res.cloudinary.com/lonewolf23/image/upload/v1623433886/Screen_Shot_2021-06-11_at_1.38.44_PM_cfigl1.png)
 
 
-Projects Page: !['Projects Page'](app/static/img/Screen Shot 2021-06-11 at 1.40.15 PM.png)
+Projects Page: !['Projects Page'](https://res.cloudinary.com/lonewolf23/image/upload/v1623433894/Screen_Shot_2021-06-11_at_1.40.15_PM_cfawsq.png)
 
-Blog Page: !['Blog Page'](app/static/img/Screen Shot 2021-06-11 at 1.41.24 PM.png)
+Blog Page: !['Blog Page'](https://res.cloudinary.com/lonewolf23/image/upload/v1623433902/Screen_Shot_2021-06-11_at_1.41.24_PM_hgrc1i.png)
 
 
 ## Additional Resources used
